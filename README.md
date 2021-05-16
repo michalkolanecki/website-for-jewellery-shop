@@ -1,3 +1,3 @@
-This is pure HTML, CSS and Amp Libary create website as example for jewellery company.
+This is pure HTML, CSS and Amp Libary business card as example for company.
 
-It has two subpage's "contact" and "creating" which are working.
+It has two subpage's "contact" and "creating".
